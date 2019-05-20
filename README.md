@@ -1,2 +1,2 @@
 # miportafolio
-El siguiente repositorio es el diseño de mi portafolio
+El siguiente repositorio es el diseño de mi portafolio utilizando el framework Bootstrap.
